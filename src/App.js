@@ -7,6 +7,9 @@ class App extends Component {
     return (
       <div className="App">
         Hello World!
+        <p>
+          Hello React!
+        </p>
         {/* <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
